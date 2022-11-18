@@ -1,6 +1,9 @@
 <html>
 <head>
     <title>pemograman berbasis objek </title>
+	<body>
+		<h1>Data mahasiswa</h1>
+	</body>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <style type="text/css">
         body{
